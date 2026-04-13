@@ -1,5 +1,5 @@
 The audio driver with instructions to install it is from:
-https://github.com/davidjo/snd_hda_macbookpro
+[https://github.com/davidjo/snd_hda_macbookpro]()
 
 > Note that all terminal commands except `git` and `cd` need to be run as root (`sudo`)!
 
@@ -35,4 +35,4 @@ cd snd_hda_macbookpro/
 To finish, reboot. Once the computer is started up again, the internal audio should be working!
 
 **Source:**
-- https://github.com/davidjo/snd_hda_macbookpro
+- [https://github.com/davidjo/snd_hda_macbookpro]()
