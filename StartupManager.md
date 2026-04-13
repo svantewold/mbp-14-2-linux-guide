@@ -14,6 +14,7 @@ or switch out `Kubuntu` with the label of your distribution, if you are using so
 To set an icon for the volume, retrieve your icon of choice in the `.icns` format. Then:
 - Put the icon in the top directory of the volume that the bootloader of Linux is on. Rename it `.VolumeIcon.icns`. 
 - Alternatively, look at the properties of the EFI volume and drag the icon to the icon area. It will then appear as the icon for that disk's boot option.
+
 ## Disk manager as default at boot
 Further, we can configure the computer to always boot into the startup disk manager in order to select which OS to boot into at startup. To do so, we want to add a NVRAM parameter. Run the following command as root:
 ```
