@@ -18,10 +18,7 @@ update-pciids
 apt install <PACKAGE_NAME>
 ```
 
-where you replace `<PACKAGE_NAME>` with the proper driver package name you found via the link above. Then, reboot by running `reboot` as root.
-
-> For a MacBook Pro 14,2 the proper driver package is: 
-> `firmware-b43-installer`
+where you replace `<PACKAGE_NAME>` with the proper driver package name you found via the link above. For a MacBook Pro 14,2 the proper driver package is `firmware-b43-installer`. Then, reboot by running `reboot` as root.
 ## 3. Resolving connectivity issues
 Download `brcmfmac43602-pcie.txt` [here](https://bugzilla.kernel.org/attachment.cgi?id=285753)
 
@@ -43,9 +40,7 @@ Then, copy the file to the correct place in a terminal by running (as root):
 ```
 cp ~/Downloads/brcmfmac43602-pcie.txt /lib/firmware/brcm/
 ```
-then make sure to reboot again.
-
-After booting up again, the WiFi connection should work. Remember to activate the [firewall](Firewall.md)!
+then make sure to reboot again. After booting up again, the WiFi connection should work. Remember to activate the [firewall](Firewall.md)!
 
 **Source:**
 - https://askubuntu.com/questions/55868/installing-broadcom-wireless-drivers
