@@ -43,4 +43,4 @@ cp ~/Downloads/brcmfmac43602-pcie.txt /lib/firmware/brcm/
 then make sure to reboot again. After booting up again, the WiFi connection should work. Remember to activate the [firewall](Firewall.md)!
 
 **Source:**
-- https://askubuntu.com/questions/55868/installing-broadcom-wireless-drivers
+- [https://askubuntu.com/questions/55868/installing-broadcom-wireless-drivers](https://askubuntu.com/questions/55868/installing-broadcom-wireless-drivers)

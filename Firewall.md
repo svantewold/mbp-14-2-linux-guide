@@ -12,5 +12,5 @@ ufw allow 53317/udp
 These commands open the port 53317 over protocols TCP and UDP. This is the default port used by LocalSend.
 
 **Useful sources:**
-- https://github.com/localsend/localsend/issues/1230
-- https://help.ubuntu.com/community/UFW
+- [https://github.com/localsend/localsend/issues/1230](https://github.com/localsend/localsend/issues/1230)
+- [https://help.ubuntu.com/community/UFW](https://help.ubuntu.com/community/UFW)

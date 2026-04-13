@@ -16,10 +16,10 @@ There are instructions to:
 - [Configure the Mac startup manager with a custom label and icon, as well as enabling the disk selector automatically on boot.](StartupManager.md)
 
 **Sources:**
-- https://askubuntu.com/questions/55868/installing-broadcom-wireless-drivers
-- https://github.com/davidjo/snd_hda_macbookpro
-- https://wiki.t2linux.org/guides/startup-manager/
-- https://osxdaily.com/2021/02/26/make-intel-mac-boot-startup-manager/
-- https://flatpak.org/setup/
-- https://github.com/localsend/localsend/issues/1230
-- https://help.ubuntu.com/community/UFW
+- [https://askubuntu.com/questions/55868/installing-broadcom-wireless-drivers](https://askubuntu.com/questions/55868/installing-broadcom-wireless-drivers)
+- [https://github.com/davidjo/snd_hda_macbookpro](https://github.com/davidjo/snd_hda_macbookpro)
+- [https://wiki.t2linux.org/guides/startup-manager/](https://wiki.t2linux.org/guides/startup-manager/)
+- [https://osxdaily.com/2021/02/26/make-intel-mac-boot-startup-manager/](https://osxdaily.com/2021/02/26/make-intel-mac-boot-startup-manager/)
+- [https://flatpak.org/setup/](https://flatpak.org/setup/)
+- [https://github.com/localsend/localsend/issues/1230](https://github.com/localsend/localsend/issues/1230)
+- [https://help.ubuntu.com/community/UFW](https://help.ubuntu.com/community/UFW)

@@ -24,5 +24,5 @@ nvram manufacturing-enter-picker=true
 Without this, after installing Linux on a dual-boot setup on a Mac, the Linux partition will automatically be the default startup disk. You can also switch the default startup disk back to macOS, by opening System Settings, navigating to **Startup Disk** and just selecting **Macintosh HD**.
 
 **Sources:**
-- https://wiki.t2linux.org/guides/startup-manager/
-- https://osxdaily.com/2021/02/26/make-intel-mac-boot-startup-manager/
+- [https://wiki.t2linux.org/guides/startup-manager/](https://wiki.t2linux.org/guides/startup-manager/)
+- [https://osxdaily.com/2021/02/26/make-intel-mac-boot-startup-manager/](https://osxdaily.com/2021/02/26/make-intel-mac-boot-startup-manager/)
