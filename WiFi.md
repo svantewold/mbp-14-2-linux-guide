@@ -1,3 +1,4 @@
+# Making WiFi connection work
 ## 1. Check the network controller
 In a terminal, run:
 ```

@@ -1,3 +1,4 @@
+# Setting up the firewall and opening ports
 First of all, make sure to enable the firewall. This can be done in the Plasma System Settings or the corresponding for other desktop environments. Alternatively, in the terminal (as root):
 ```
 ufw enable

@@ -1,3 +1,4 @@
+# Installing Flatpak and adding Flathub
 ## 1. Installing Flatpak and the backend for Plasma Discover
 We want to install the Flatpak package as well as the package for the Flatpak backend for Plasma Discover. This can be done directly in Plasma Discover, or in the terminal (as root):
 ```

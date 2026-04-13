@@ -1,3 +1,4 @@
+# Configuring the Mac Startup Disk Manager
 We can configure the Mac startup disk manager with custom labels and icons, as well as enabling the manager to automatically appear at boot. Make sure to run all terminal commands as root (`sudo`).
 ## Labels
 To set labels, first mount the EFI partition by running the following command:
