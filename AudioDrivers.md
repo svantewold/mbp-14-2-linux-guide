@@ -1,8 +1,8 @@
-> [!INFO]
-> The audio driver with instructions to install it is from: 
-> https://github.com/davidjo/snd_hda_macbookpro
-> 
+The audio driver with instructions to install it is from:
+https://github.com/davidjo/snd_hda_macbookpro
+
 > Note that all terminal commands except `git` and `cd` need to be run as root (`sudo`)!
+
 ## 1. Installing dependency packages
 Make sure that you have these packages installed:
 - `linux-headers-generic`
