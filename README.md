@@ -6,9 +6,9 @@ These instructions are for this specific MacBook model: **Macbook Pro 14,2**.
 - Kernel: Linux 6.17.0-20-generic
 - Desktop environment: KDE Plasma 6.4.5
 
-This is my documentation of some configurations and tweaks I have made on my MacBook Pro 14,2 after installing Kubuntu 25.10. I am dual-booting with macOS Ventura. This guide is mainly made so that I can redo my setup when I reinstall or upgrade Linux. Note that most of the terminal commands need to be run as root.
+This is my documentation of some configurations and tweaks I have made on my MacBook Pro 14,2 after installing Kubuntu 25.10. I am dual-booting with macOS Ventura. This guide is mainly made so that I can redo my setup when I reinstall or upgrade Linux.
 
-There are instructions to:
+## Parts
 - [Make the WiFi connection working](WiFi.md)
 - [Install Audio Drivers to enable the internal audio](AudioDrivers.md)
 - [Enable the firewall and open ports for LocalSend](Firewall)
